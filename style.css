@@ -1,0 +1,25 @@
+html{
+    background-color: darkblue;
+}
+
+.doog{
+    background-color: green;
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-size: 33px;
+}
+.doog span{
+    transform: translateY(100px);
+}
+.cadaan{
+    background-color: white;
+    width: 600px;
+    height: 100px;
+}
+.casaan{
+    background-color: red;
+    width: 600px;
+    height: 100px;
+}
